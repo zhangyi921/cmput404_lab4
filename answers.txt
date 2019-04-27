@@ -26,3 +26,5 @@ So you can change content dynamically
 Question8:
 We can write less code by using generic view. When the request handle function does
 something different, we cannot use generic view.
+
+lueueue
